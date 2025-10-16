@@ -381,7 +381,7 @@ a:hover {
 
   .navbar a:hover {
     border-bottom: 1px solid #001eff;
-    background-color: rgba(0, 0, 255, 0.05);
+    background-color: rgba(0, 0, 0, 0.05);
   }
 
   .three-column-layout {
